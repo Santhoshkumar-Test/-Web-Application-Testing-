@@ -14,7 +14,10 @@ The workflow tested in this project:
 
 **SauceDemo** is a demo **E-commerce web application** widely used for practicing **manual and automation testing**.
 
-![SauceDemo](Asset/SauceDemo.png)
+
+<img width="1880" height="824" alt="SauceDemo (1)" src="https://github.com/user-attachments/assets/0636dc41-346c-413e-9e93-367f11e13f39" />
+
+
 
 ---
 
