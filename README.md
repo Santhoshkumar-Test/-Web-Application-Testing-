@@ -1,4 +1,4 @@
-# 📌 Project-2: Manual Testing of SauceDemo E-Commerce Workflow
+# 📌 Project- Manual Testing of SauceDemo E-Commerce Workflow
 Welcome to my **Intermediate Manual Testing Project 🚀**.<br>
 In this project, I performed **end-to-end manual testing** on the **SauceDemo E-commerce Web Application**.
 The objective of this project is to simulate a **real QA testing process using the STLC (Software Testing Life Cycle)**.<br>
