@@ -161,6 +161,6 @@ All STLC deliverables have been created and documented Day-wise.
 ---
 
 # 👨‍💻 Author
-**Adarsh Jayprakash Mishra**<br>
-🎓 B.Sc. Computer Science<br>
+**Santhoshkumar**<br>
+🎓 B TECH-information technology<br>
 💻 Aspiring **QA Automation Tester**
